@@ -34,8 +34,8 @@ MY FIRST JARVISH FOR PC IN PYTHON LANGUEGE.
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/jarvis-assistant.git
-cd jarvis-assistant
+git clone https://github.com/raju2k7838-hash/jarvis-for-pc.git
+cd jarvis-for-pc
 Install required dependencies:
 
 Bash
